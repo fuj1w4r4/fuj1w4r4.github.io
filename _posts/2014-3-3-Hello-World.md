@@ -6,6 +6,7 @@ published: true
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+published: true
 ---
 
 # Welcome
